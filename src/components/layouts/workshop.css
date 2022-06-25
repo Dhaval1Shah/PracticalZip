@@ -1,0 +1,62 @@
+.Workshop__Title {
+  padding: 10px;
+  color: navy;
+}
+
+.Image__Title {
+  /* padding: 10px; */
+}
+
+.Upload__btn {
+  padding: 20px;
+  display: flex;
+}
+
+.buttonStyle {
+  background-color: navy !important;
+}
+
+.preview {
+  height: 125px;
+  width: 175px;
+  border-radius: 10px;
+  background-color: lightgray;
+}
+
+.Tiket__Title {
+  font-weight: bold;
+  font-size: large;
+}
+
+.Event__Platform {
+  font-size: small;
+  margin-top: 10px;
+}
+
+.Skype__icon {
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.Duo__Icon {
+  margin-left: 8px;
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.Meet__Icon {
+  margin-left: 8px;
+  border: none;
+  box-shadow: none;
+  cursor: pointer;
+}
+
+.Text{
+    margin-top: 10px; 
+}
+
+.about__Workshop{
+  margin-top: 10px;
+}
